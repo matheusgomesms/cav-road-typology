@@ -1,1 +1,6 @@
 Comandos Começo.txt
+# Ignore these data source folders everywhere
+Mapillary/
+missing/
+OSM/
+raw/
