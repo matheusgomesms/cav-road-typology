@@ -1,5 +1,12 @@
+traffic_signs (filtro).csv
+traffic_signs_br.zip
+traffic_signs.yaml
 Comandos Começo.txt
+code2.py
 # Ignore these data source folders everywhere
+objects/
+traffic_signs_br/
+signs/
 Mapillary/
 missing/
 OSM/
