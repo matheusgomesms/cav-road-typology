@@ -4,6 +4,7 @@ traffic_signs.yaml
 Comandos Começo.txt
 code2.py
 # Ignore these data source folders everywhere
+combined/
 objects/
 traffic_signs_br/
 signs/
@@ -11,3 +12,5 @@ Mapillary/
 missing/
 OSM/
 raw/
+/.ipynb_checkpoints
+*.DS_Store
