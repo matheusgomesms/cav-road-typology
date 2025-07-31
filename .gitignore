@@ -14,3 +14,39 @@ OSM/
 raw/
 /.ipynb_checkpoints
 *.DS_Store
+--- Python ---
+Byte-compiled / optimized / C extensions
+pycache/
+*.pyc
+*.pyo
+*.pyd
+Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+--- Secrets ---
+Never commit API keys or other secrets!
+.env
+*.env
+--- Data ---
+Ignore the intermediate processed data folder, which can be very large.
+The code should be used to regenerate this data.
+data/
+Optional: Ignore the results folder if it's large.
+It can be useful to commit the final CSVs and key figures for a portfolio.
+Uncomment the line below to ignore it entirely.
+results/
+--- System / OS ---
+macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
