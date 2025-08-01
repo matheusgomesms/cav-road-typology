@@ -1,9 +1,13 @@
+# Specific Files
+
 traffic_signs (filtro).csv
 traffic_signs_br.zip
 traffic_signs.yaml
 Comandos Começo.txt
 code2.py
-# Ignore these data source folders everywhere
+yolov8n.pt
+
+# Specific Folders
 combined/
 objects/
 traffic_signs_br/
@@ -14,33 +18,28 @@ OSM/
 raw/
 /.ipynb_checkpoints
 *.DS_Store
---- Python ---
-Byte-compiled / optimized / C extensions
+
+# Python
 pycache/
 *.pyc
 *.pyo
 *.pyd
-Jupyter Notebook Checkpoints
+
+# Jupyter Notebook Checkpoints
 .ipynb_checkpoints
-Virtual Environments
+
+# Virtual Environments
 venv/
 .venv/
 env/
 .env/
 ENV/
---- Secrets ---
-Never commit API keys or other secrets!
+
+# Secrets
 .env
 *.env
---- Data ---
-Ignore the intermediate processed data folder, which can be very large.
-The code should be used to regenerate this data.
-data/
-Optional: Ignore the results folder if it's large.
-It can be useful to commit the final CSVs and key figures for a portfolio.
-Uncomment the line below to ignore it entirely.
-results/
---- System / OS ---
+
+# System/OS
 macOS
 .DS_Store
 .AppleDouble
