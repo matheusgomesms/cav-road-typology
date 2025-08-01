@@ -112,6 +112,29 @@ Note: if you are running full data (7 millions segments), it is very likely you 
 
 This project uses a dual-license model:
 
-*   The **data** (all files inside `data/` and `input_data/manual_boundaries/` folders) is licensed under the **[Open Data Commons Open Database License (ODbL)](LICENSE_DATA)**, since they are derived from OpenStreetMap.
+*   The **data** (all files inside `data/` and `input_data/manual_boundaries/` folders) is licensed under the **[Open Data Commons Open Database License (ODbL)](LICENSE_DATA)**, since these files are derived from OpenStreetMap.
 
 *   Everything else, including the **source code** (`.ipynb` notebooks), is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE_DATA)**.
+
+## Development and Reproducibility Notes
+
+### Development Process
+This project was developed with significant assistance from Large Language Models (LLMs) to accelerate tasks such as code generation, refactoring, and debugging. All key logic has been reviewed and validated.
+
+### Versioning and Compatibility
+The Python data science ecosystem, especially within the geospatial domain, is highly sensitive to library versions. A combination of packages that works today might produce errors or warnings in the future as individual libraries are updated.
+
+This project was confirmed to be fully functional in **July 2025** using **Python 3.9**.
+
+To ensure you can reproduce the results, it is **essential** to:
+1.  Use a **virtual environment** to isolate project dependencies.
+2.  Install the exact package versions specified in the `requirements.txt` file using `pip install -r requirements.txt`.
+
+### Disclaimer
+This code is provided 'as-is' under the aforementioned License. It is intended for educational and portfolio purposes. While every effort has been made to ensure its functionality at the time of development, we offer no warranties and accept no liability for its use.
+
+## Acknowledgements
+
+This project is part of Matheus Gomes Correia's doctoral research (Univ Coimbra). He is the author of the 3 notebooks in this repository and is grateful to the Portuguese Foundation for Science and Technology (FCT) for the financial support through the doctoral grant PRT/BD/152842/2021, under MIT Portugal Program.
+
+Matheus is advised by Professors Adelino Ferreira (Univ Coimbra) and Bruno Prata (Federal University of Ceará), which guided him during the doctoral research and the development of this specific repository as well.
