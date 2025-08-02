@@ -6,6 +6,11 @@ traffic_signs.yaml
 Comandos Começo.txt
 code2.py
 yolov8n.pt
+*.xlsx
+results/full_network.csv
+results/full_network.gpkg
+results/full_network_with_clusters.csv
+results/full_network_with_clusters.gpkg
 
 # Specific Folders
 combined/
@@ -17,6 +22,9 @@ missing/
 OSM/
 raw/
 /.ipynb_checkpoints
+old_code/
+traffic_signs_code/
+notebooks/cache/
 *.DS_Store
 
 # Python

@@ -82,7 +82,7 @@ MLY_ACCESS_TOKEN="MLY|your_long_token_here"
 To get a Client Access Token you will need to register an application on https://www.mapillary.com/dashboard/developer
 
 ### 2. Workflow
-1. If you would like to try the code and generate data by yourself, before running any code, please delete `results/` and `data/` folders. The code will read those files, and if they exist, it will skip any data download/generation.
+1. If you would like to try the code and generate data by yourself, before running any code, please delete `results/` and `data/` folders. The code will read those files, and if they exist, it will skip any data download/generation. Also, if you wish only to read the full results, or do not wish to run everything again, please download the extra files pointed at `results/links_to_download_full_results.txt` (we could not upload these heavy files here in Github).
 
 2. Please change the user agent in this line, using a very specific name for your project:
 

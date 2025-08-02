@@ -1,0 +1,101 @@
+city_id;user_input;processing_time_seconds
+nukualofa;Nuku'alofa, Tonga;449.38
+apia;Apia, Samoa;451.51
+honiara;Honiara, Solomon Islands;529.74
+suva;Suva, Fiji;449.13
+coimbra;Coimbra, Portugal;799.23
+reykjavik;Reykjavik, Iceland;1979.12
+national_capital_district;National Capital District, Papua New Guinea;667.54
+wellington_city;Wellington City, New Zealand;868.52
+kigali;Kigali, Rwanda;2455.07
+oslo;Oslo, Norway;2592.18
+zurich;Zurich, Switzerland;1122.61
+san_jose;San José, Costa Rica;5484.59
+auckland;Auckland, New Zealand;23605.2
+belgrade;Belgrade, Serbia;2907.56
+sofia;Sofia, Bulgaria;567.51
+montevideo;Montevideo, Uruguay;1799.68
+calgary;Calgary, Canada;2934.37
+vienna;Vienna, Austria;3174.49
+dublin;Dublin, Ireland;1509.1
+perth;Perth, Australia;581.2
+prague;Prague, Czech Republic;2422.51
+distrito_de_panama;Distrito de Panamá, Panama;3244.64
+bucharest;Bucharest, Romania;1330.01
+brussels;Brussels, Belgium;1381.44
+la_paz;La Paz, Bolivia;2193.9
+baku;Baku, Azerbaijan;16782.52
+doha;Doha, Qatar;1271.97
+beirut;Beirut, Lebanon;534.77
+amsterdam;Amsterdam, Netherlands;612.63
+brisbane;Brisbane, Australia;2501.84
+vancouver;Vancouver, Canada;1029.39
+ciudad_de_tunez;Ciudad de Túnez, Tunisia;966.03
+caracas;Caracas, Venezuela;944.75
+budapest;Budapest, Hungary;5724.71
+tashkent;Tashkent, Uzbekistan;2168.48
+kyiv;Kyiv, Ukraine;1610.14
+warsaw;Warsaw, Poland;4861.69
+quito;Quito, Ecuador;7150.21
+dakar;Dakar, Senegal;692.78
+hamburg;Hamburg, Germany;1962.04
+lusaka;Lusaka, Zambia;7750.68
+algiers;Algiers, Algeria;1260.1
+casablanca;Casablanca, Morocco;1043.47
+kampala;Kampala, Uganda;951.9
+medellin;Medellín, Colombia;1237.79
+fortaleza;Fortaleza, Brazil;1657.44
+berlin;Berlin, Germany;16227.87
+rome;Rome, Italy;2756.18
+montreal;Montreal, Canada;5589.03
+amman;Amman, Jordan;9555.15
+san_francisco;San Francisco, United States;2962.64
+city_of_cape_town;City of Cape Town, South Africa;5218.7
+boston;Boston, United States;1659.25
+accra;Accra, Ghana;807.4
+monterrey;Monterrey, Mexico;1875.15
+nairobi;Nairobi, Kenya;1252.18
+melbourne;Melbourne, Australia;14379.88
+guadalajara;Guadalajara, Mexico;1438.86
+sydney;Sydney, Australia;15172.16
+alexandria;Alexandria, Egypt;6609.77
+colombo;Colombo, Sri Lanka;549.4
+dubai;Dubai, United Arab Emirates;7687.44
+yangon;Yangon, Myanmar;1261.03
+singapore;Singapore, Singapore;5347.3
+miami;Miami, United States;1363.46
+toronto;Toronto, Canada;2749.23
+madrid;Madrid, Spain;3003.23
+santiago;Santiago, Chile;753.08
+houston;Houston, United States;9282.52
+riyadh_governorate;Riyadh Governorate, Saudi Arabia;11130.9
+baghdad;Baghdad, Iraq;1231.83
+dar_es_salaam;Dar es Salaam, Tanzania;5806.84
+kuala_lumpur;Kuala Lumpur, Malaysia;1713.31
+chicago;Chicago, United States;6789.97
+tehran;Tehran, Iran;1433.52
+bangkok;Bangkok, Thailand;3669.08
+provincia_de_lima;Provincia de Lima, Peru;7832.33
+paris;Paris, France;2171.48
+bogota;Bogotá, Colombia;3760.98
+chennai;Chennai, India;886.07
+ho_chi_minh_city;Ho Chi Minh City, Vietnam;9230.18
+manila;Manila, Philippines;1328.34
+london;London, United Kingdom;7557.65
+buenos_aires;Buenos Aires, Argentina;2098.55
+istanbul;Istanbul, Turkey;5508.78
+lagos;Lagos, Nigeria;7018.05
+karachi;Karachi, Pakistan;11000.54
+moscow;Moscow, Russia;17315.65
+los_angeles;Los Angeles, United States;3518.78
+new_york;New York, United States;15543.54
+mumbai;Mumbai, India;945.23
+beijing;Beijing, China;11398.92
+mexico_city;Mexico City, Mexico;4598.27
+cairo;Cairo, Egypt;3937.36
+municipio_de_sao_paulo;Município de São Paulo, Brazil;5750.17
+dhaka;Dhaka, Bangladesh;23524.27
+shanghai;Shanghai, China;28108.09
+jakarta;Jakarta, Indonesia;9814.72
+delhi;Delhi, India;1999.76
+tokyo;Tokyo, Japan;12146.66
