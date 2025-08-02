@@ -114,7 +114,7 @@ This project uses a dual-license model:
 
 *   The **data** (all files inside `data/` and `input_data/manual_boundaries/` folders) is licensed under the **[Open Data Commons Open Database License (ODbL)](LICENSE_DATA)**, since these files are derived from OpenStreetMap.
 
-*   Everything else, including the **source code** (`.ipynb` notebooks), is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE_DATA)**.
+*   Everything else, including the **source code** (`.ipynb` notebooks), is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE)**.
 
 ## Development and Reproducibility Notes
 
