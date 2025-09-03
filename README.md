@@ -3,7 +3,7 @@
 [![License: ODbL](https://img.shields.io/badge/Data%20License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Code%20License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-This project provides a complete pipeline for downloading, processing, and analyzing how current road infrastructure is ready to support Connect and Automated Vehicles (CAVs), using data from OpenStreetMap (OSM) and Mapillary. It download road network from OSM, enriches it with traffic sign data from Mapillary, performs a *k*-Prototypes clustering to identify street types, and generates statistical reports and visualizations based on the results.
+This project provides a complete pipeline for downloading, processing, and analyzing how current road infrastructure is ready to support Connect and Automated Vehicles (CAVs), using data from OpenStreetMap (OSM) and Mapillary. It downloads road network from OSM, enriches it with traffic sign data from Mapillary, performs a *k*-Prototypes clustering to identify street types, and generates statistical reports and visualizations based on the results.
 
 This repository is a companion to our academic research. We aim for full reproducibility, so that is the reason we are including our full results here as well. For a detailed explanation of the methodology, cluster definitions, and findings, please refer to our paper:
 
