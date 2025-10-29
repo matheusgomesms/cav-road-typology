@@ -1,0 +1,7 @@
+full_network.csv: https://1drv.ms/x/c/66885c1ff932a70e/EfozFi5_Z19JhmgWP_ot_SQBwUClDIUeDZ6L3vc1Sk_5og?e=SHJ49E
+
+full_network.gpkg: https://1drv.ms/u/c/66885c1ff932a70e/EXvikEvz-ORPjcaIrEommEAB08Isb4VYC8vfwwuTzZwVmA?e=S0Tmnt
+
+full_network_with_clusters.csv: https://1drv.ms/x/c/66885c1ff932a70e/EfzNZDhcip5DguYt_VzedTcBwTPrBzRSUMhy9jR1KqvrBg?e=4rDe3P
+
+full_network_with_clusters.gpkg: https://1drv.ms/u/c/66885c1ff932a70e/EUw_noTOBsJArHlO1x_tbFEBkxVirbt463Nyuw33Fv4AFA?e=ljYbmj
