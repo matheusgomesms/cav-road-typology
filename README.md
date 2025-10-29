@@ -1,4 +1,4 @@
-# A Scalable Machine Learning Framework for Assessing Urban Infrastructure Readiness for Automated Vehicles
+# Characterizing the Urban Road Network for Automated Mobility: A Scalable Typology for Evidence-Based Policy
 
 [![License: ODbL](https://img.shields.io/badge/Data%20License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Code%20License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -7,11 +7,11 @@ This project provides a complete pipeline for downloading, processing, and analy
 
 This repository is a companion to our academic research. We aim for full reproducibility, so that is the reason we are including our full results here as well. For a detailed explanation of the methodology, cluster definitions, and findings, please refer to our paper:
 
-[A Scalable Machine Learning Framework for Assessing Urban Infrastructure Readiness for Automated Vehicles](https://dx.doi.org/10.2139/ssrn.5357778$0)
+Characterizing the Urban Road Network for Automated Mobility: A Scalable Typology for Evidence-Based Policy (link in the future)
 
 If you use this project, its data, or its findings in your research, please cite our work as follows:
 
-`Gomes Correia, Matheus and Prata, Bruno de Athayde and Ferreira, Adelino, A Scalable Machine Learning Framework for Assessing Urban Infrastructure Readiness for Automated Vehicles. Available at SSRN: http://dx.doi.org/10.2139/ssrn.5357778`
+`Citation in the future`
 
 ## Key Features
 
@@ -86,7 +86,7 @@ To get a Client Access Token you will need to register an application on https:/
 
 2. Please change the user agent in this line, using a very specific name for your project:
 
-`geolocator = Nominatim(user_agent="cav-assessment-matheus-correia"`
+`geolocator = Nominatim(user_agent="cav-road-typology-your-name"`
 
 If you do not do that, you risk OSM preventing you accessing the data.
 
@@ -132,9 +132,3 @@ To ensure you can reproduce the results, it is **essential** to:
 
 ### Disclaimer
 This code is provided 'as-is' under the aforementioned License. It is intended for educational and portfolio purposes. While every effort has been made to ensure its functionality at the time of development, we offer no warranties and accept no liability for its use.
-
-## Acknowledgements
-
-This project is part of Matheus Gomes Correia's doctoral research (Univ Coimbra). He is the author of the 3 notebooks in this repository and is grateful to the Portuguese Foundation for Science and Technology (FCT) for the financial support through the doctoral grant PRT/BD/152842/2021, under MIT Portugal Program.
-
-Matheus is advised by Professors Adelino Ferreira (Univ Coimbra) and Bruno Prata (Federal University of Ceará), which guided him during the doctoral research and the development of this specific repository as well.
